@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-pinto-2a6368bb/">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pedro_shiroma_p1">
+<a href="https://www.linkedin.com/in/pedro-s-pinto-2a6368bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><img src=https://www.hackerrank.com/pedro_shiroma_p1"</a>
 
 <!--
 **pedrosp06/pedrosp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
