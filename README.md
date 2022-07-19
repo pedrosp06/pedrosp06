@@ -1,6 +1,15 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/pedro-s-pinto-2a6368bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><img src=https://www.hackerrank.com/pedro_shiroma_p1"</a>
+<a href="https://www.hackerrank.com/pedro_shiroma_p1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+
+- 🔭 I’m currently working on ...
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- 🌱 I’m currently learning ...
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 <!--
 **pedrosp06/pedrosp06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
